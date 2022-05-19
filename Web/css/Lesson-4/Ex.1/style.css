@@ -1,0 +1,15 @@
+h1{
+    text-transform: uppercase;
+    border-bottom-style: dotted;
+    border-bottom-width: medium;
+    border-bottom-color: #00008b
+  }
+hr{
+    font-size: small;
+}
+pre::first-letter{
+    font-size: xx-large;
+}
+pre::first-line{
+  color: blue
+}

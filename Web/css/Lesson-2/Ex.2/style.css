@@ -1,0 +1,21 @@
+.h{
+  text-align: center;
+}
+h2.h{
+  font-size: large;
+  font-style: normal;
+  text-decoration: overline;
+  text-transform: capitalize;
+}
+h3.h{
+  font-size: x-large;
+  font-style: oblique;
+  text-decoration: line-through;
+  text-transform: lowercase;
+}
+h4.h{
+  font-size: xx-large;
+  font-style: italic;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
